@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="wordArrayList">
+        <item>Orange</item>
+        <item>sister</item>
+        <item>android</item>
+        <item>button</item>
+        <item>computer</item>
+        <item>dog</item>
+        <item>cat</item>
+        <item>banana</item>
+    </string-array>
+
+
+</resources>
